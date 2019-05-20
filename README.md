@@ -1,5 +1,9 @@
 # neo4j_test
 
+## To start neo4j server
+   1. Goto neo4j Home /Users/debashisnaskar/Neo4j_Server/neo4j-community-3.5.5
+   2. ./bin/neo4j console
+
 ## code dir on Debo
   path : /Users/debashisnaskar/PycharmProjects/neo4j_test
 ## To run
